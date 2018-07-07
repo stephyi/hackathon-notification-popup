@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color:rgba(235, 226, 226, 0.774);
+  }
+  
+  div.container{
+    margin-top: 10%;
+    margin-left:37%;
+    position: relative;
+    width: 35%;
+    display: grid;
+    place-items: auto center;
+    box-shadow: 0 0 3px lightgray;
+  }
+  
